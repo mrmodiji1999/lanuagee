@@ -1,0 +1,4 @@
+{
+  "helloWorld": "A dropdown menu that can be opened from a TextField. The selected menu item is displayed in that field. This widget is used to help people make a choice from a menu and put the selected item into the text input field. People can also filter the list based on the text input or search one item in the menu list. The menu is composed of a list of DropdownMenuEntrys. People can provide information, such as: label, leading icon or trailing icon for each entry. The TextField will be updated based on the selection from the menu entries. The text field will stay empty if the selected entry is disabled. The dropdown menu can be traversed by pressing the up or down key. During the process, the corresponding item will be highlighted and the text field will be updated. Disabled items will be skipped during traversal. The menu can be scrollable if not all items in the list are displayed at once."
+
+}
